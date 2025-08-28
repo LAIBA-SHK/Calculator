@@ -19,7 +19,7 @@ body{
     box-shadow: 0 4 25px rgb(41, 39, 39);
     border: 2px solid rgb(49, 61, 97);
     border-radius: 15px;
-    margin-bottom: 20px;
+    margin: 20px auto;
     width: 90%;        
     max-width: 400px;
 }
